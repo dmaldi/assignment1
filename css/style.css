@@ -46,11 +46,17 @@ Developer @GA in NYC
 /*******************************************/
 
 body {
-     color: #000;
-     font-size: 12px;
-     line-height: 1.4;
-     font-family: Cabin;
-     margin:0px;
+     background-color: #42413d;;
+     color: #ffffff;
+     font-size: 20px;
+     line-height: 1.5;
+     font-family: 'Cabin', sans-serif;
+     margin:50px;
+     padding:50px;
+}
+
+h1{
+     color: #ffd82a;
 }
 
 /******************************************
