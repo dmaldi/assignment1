@@ -83,6 +83,8 @@ a:active {
 footer {
      color: #999999;
      bottom: 0;
+     clear: both;
+     padding-top: 20px;
 }
 
 h2 {
