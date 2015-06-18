@@ -55,12 +55,21 @@ body {
      padding:50px;
 }
 
+
 h1 {
      color: red;
 }
 
 a {
      color: #999999;
+     text-decoration: none;
+     padding: 15px;
+}
+
+strong{
+     padding-right: 15px;
+     padding-top: 15px;
+     padding-bottom: 15px;
 }
 
 a:hover {
@@ -75,6 +84,10 @@ footer {
      color: #999999;
 }
 
+h2 {
+     text-decoration: underline;
+}
+
 h3 {
      color: #999999;
      font-style: italic;
@@ -83,6 +96,14 @@ h3 {
 ul {
      list-style-type: square;
 }
+
+img {
+     float: left;
+     padding-right: 40px;
+}
+
+
+
 /******************************************
 /* LAYOUT                   
 /*******************************************/
