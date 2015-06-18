@@ -46,19 +46,43 @@ Developer @GA in NYC
 /*******************************************/
 
 body {
-     background-color: #42413d;;
-     color: #ffffff;
-     font-size: 20px;
+     background-color: white;
+     color: #000000;
+     font-size: 18px;
      line-height: 1.5;
      font-family: 'Cabin', sans-serif;
      margin:50px;
      padding:50px;
 }
 
-h1{
-     color: #ffd82a;
+h1 {
+     color: red;
 }
 
+a {
+     color: #999999;
+}
+
+a:hover {
+     color: red;
+}
+
+a:active {
+     font-weight: bold;
+}
+
+footer {
+     color: #999999;
+}
+
+h3 {
+     color: #999999;
+     font-style: italic;
+}
+
+ul {
+     list-style-type: square;
+}
 /******************************************
 /* LAYOUT                   
 /*******************************************/
